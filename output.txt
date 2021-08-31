@@ -1,0 +1,998 @@
+GoogleNet found.
+mean-subtracted values: <zip object at 0x7fa9ba6b1e00>
+21
+0
+/examples/abc/0/0.jpg
+predicted class is: 785
+output label: n04162706 seat belt, seatbelt
+probabilities and labels:
+(array([0.10125665, 0.05434712, 0.03766102, 0.03558973, 0.03546805],
+      dtype=float32), array(['n04162706 seat belt, seatbelt', 'n03814639 neck brace',
+       'n04336792 stretcher', 'n03444034 go-kart', 'n03255030 dumbbell'],
+      dtype='<U131'))
+/examples/abc/0/1.jpg
+predicted class is: 722
+output label: n03942813 ping-pong ball
+probabilities and labels:
+(array([0.16761462, 0.08199558, 0.07886702, 0.06960122, 0.06621297],
+      dtype=float32), array(['n03942813 ping-pong ball', 'n02790996 barbell',
+       'n04540053 volleyball', 'n04579432 whistle',
+       'n03814639 neck brace'], dtype='<U131'))
+/examples/abc/0/2.jpg
+predicted class is: 981
+output label: n09835506 ballplayer, baseball player
+probabilities and labels:
+(array([0.44373718, 0.27209416, 0.15957133, 0.06680939, 0.04053238],
+      dtype=float32), array(['n09835506 ballplayer, baseball player',
+       'n04039381 racket, racquet', 'n04254680 soccer ball',
+       'n04409515 tennis ball', 'n02799071 baseball'], dtype='<U131'))
+/examples/abc/0/3.jpg
+predicted class is: 768
+output label: n04118538 rugby ball
+probabilities and labels:
+(array([0.6769381 , 0.29732507, 0.01026209, 0.00776583, 0.00203458],
+      dtype=float32), array(['n04118538 rugby ball', 'n04254680 soccer ball',
+       'n09835506 ballplayer, baseball player', 'n02799071 baseball',
+       'n03888257 parachute, chute'], dtype='<U131'))
+/examples/abc/0/4.jpg
+predicted class is: 955
+output label: n07754684 jackfruit, jak, jack
+probabilities and labels:
+(array([0.1229057 , 0.1166188 , 0.06003482, 0.04432222, 0.04192495],
+      dtype=float32), array(['n07754684 jackfruit, jak, jack', 'n02454379 armadillo',
+       'n13054560 bolete',
+       'n13052670 hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa',
+       'n01917289 brain coral'], dtype='<U131'))
+/examples/abc/0/5.jpg
+predicted class is: 697
+output label: n03877472 pajama, pyjama, pj's, jammies
+probabilities and labels:
+(array([0.28699628, 0.19681372, 0.15553902, 0.05959151, 0.03800396],
+      dtype=float32), array(["n03877472 pajama, pyjama, pj's, jammies", 'n04336792 stretcher',
+       'n04235860 sleeping bag', 'n04136333 sarong',
+       'n04371430 swimming trunks, bathing trunks'], dtype='<U131'))
+/examples/abc/0/6.jpg
+predicted class is: 464
+output label: n02910353 buckle
+probabilities and labels:
+(array([0.13173683, 0.08037615, 0.06445598, 0.05325127, 0.05140428],
+      dtype=float32), array(['n02910353 buckle',
+       'n03485407 hand-held computer, hand-held microcomputer',
+       'n02965783 car mirror',
+       'n02992529 cellular telephone, cellular phone, cellphone, cell, mobile phone',
+       'n04579432 whistle'], dtype='<U131'))
+/examples/abc/0/7.jpg
+predicted class is: 743
+output label: n04005630 prison, prison house
+probabilities and labels:
+(array([0.5175058 , 0.22555025, 0.08333185, 0.0632477 , 0.03544262],
+      dtype=float32), array(['n04005630 prison, prison house', 'n03899768 patio, terrace',
+       'n04201297 shoji', 'n04239074 sliding door',
+       'n03529860 home theater, home theatre'], dtype='<U131'))
+/examples/abc/0/8.jpg
+predicted class is: 905
+output label: n04590129 window shade
+probabilities and labels:
+(array([0.19131759, 0.12331124, 0.10394904, 0.08955782, 0.06708939],
+      dtype=float32), array(['n04590129 window shade',
+       'n04404412 television, television system',
+       'n04589890 window screen', 'n04209239 shower curtain',
+       'n04344873 studio couch, day bed'], dtype='<U131'))
+/examples/abc/0/9.jpg
+predicted class is: 797
+output label: n04235860 sleeping bag
+probabilities and labels:
+(array([0.1107453 , 0.06341773, 0.04236246, 0.04146842, 0.03499148],
+      dtype=float32), array(['n04235860 sleeping bag',
+       'n04023962 punching bag, punch bag, punching ball, punchball',
+       'n02782093 balloon', 'n04344873 studio couch, day bed',
+       'n03467068 guillotine'], dtype='<U131'))
+/examples/abc/0/10.jpg
+predicted class is: 651
+output label: n03761084 microwave, microwave oven
+probabilities and labels:
+(array([0.3866365 , 0.14321168, 0.12928636, 0.0403766 , 0.0399628 ],
+      dtype=float32), array(['n03761084 microwave, microwave oven', 'n04330267 stove',
+       'n04553703 washbasin, handbasin, washbowl, lavabo, wash-hand basin',
+       'n04254120 soap dispenser', 'n03201208 dining table, board'],
+      dtype='<U131'))
+/examples/abc/0/11.jpg
+predicted class is: 446
+output label: n02840245 binder, ring-binder
+probabilities and labels:
+(array([0.09264322, 0.0782523 , 0.05499246, 0.04180421, 0.0384325 ],
+      dtype=float32), array(['n02840245 binder, ring-binder', 'n03376595 folding chair',
+       'n03485794 handkerchief, hankie, hanky, hankey',
+       'n04336792 stretcher', 'n04507155 umbrella'], dtype='<U131'))
+/examples/abc/0/12.jpg
+predicted class is: 651
+output label: n03761084 microwave, microwave oven
+probabilities and labels:
+(array([0.97967255, 0.00837741, 0.00439616, 0.0018599 , 0.00123613],
+      dtype=float32), array(['n03761084 microwave, microwave oven', 'n04330267 stove',
+       'n03207941 dishwasher, dish washer, dishwashing machine',
+       'n04554684 washer, automatic washer, washing machine',
+       'n03742115 medicine chest, medicine cabinet'], dtype='<U131'))
+/examples/abc/0/13.jpg
+predicted class is: 831
+output label: n04344873 studio couch, day bed
+probabilities and labels:
+(array([0.4177875 , 0.14531676, 0.06516252, 0.04286614, 0.04254979],
+      dtype=float32), array(['n04344873 studio couch, day bed',
+       'n03529860 home theater, home theatre', 'n04336792 stretcher',
+       'n04493381 tub, vat', 'n02808440 bathtub, bathing tub, bath, tub'],
+      dtype='<U131'))
+/examples/abc/0/14.jpg
+predicted class is: 598
+output label: n03529860 home theater, home theatre
+probabilities and labels:
+(array([0.40925112, 0.2265287 , 0.21345688, 0.01822553, 0.013665  ],
+      dtype=float32), array(['n03529860 home theater, home theatre', 'n03388549 four-poster',
+       'n04344873 studio couch, day bed', 'n04239074 sliding door',
+       'n04550184 wardrobe, closet, press'], dtype='<U131'))
+/examples/abc/0/15.jpg
+predicted class is: 406
+output label: n02699494 altar
+probabilities and labels:
+(array([0.33951557, 0.15743667, 0.07749788, 0.05765212, 0.04547401],
+      dtype=float32), array(['n02699494 altar', 'n04462240 toyshop',
+       'n03032252 cinema, movie theater, movie theatre, movie house, picture palace',
+       'n02825657 bell cote, bell cot',
+       'n04081281 restaurant, eating house, eating place, eatery'],
+      dtype='<U131'))
+/examples/abc/0/16.jpg
+predicted class is: 668
+output label: n03788195 mosque
+probabilities and labels:
+(array([0.7054987 , 0.20812578, 0.03843447, 0.0298816 , 0.00545218],
+      dtype=float32), array(['n03788195 mosque', 'n03220513 dome', 'n03956157 planetarium',
+       'n03877845 palace', 'n03457902 greenhouse, nursery, glasshouse'],
+      dtype='<U131'))
+/examples/abc/0/17.jpg
+predicted class is: 668
+output label: n03788195 mosque
+probabilities and labels:
+(array([0.3827825 , 0.3658979 , 0.21230353, 0.01038479, 0.00315127],
+      dtype=float32), array(['n03788195 mosque', 'n03220513 dome', 'n03956157 planetarium',
+       'n04613696 yurt', 'n03933933 pier'], dtype='<U131'))
+/examples/abc/0/18.jpg
+predicted class is: 494
+output label: n03017168 chime, bell, gong
+probabilities and labels:
+(array([0.1080078 , 0.10267582, 0.07993401, 0.05359304, 0.04022212],
+      dtype=float32), array(['n03017168 chime, bell, gong', 'n02817516 bearskin, busby, shako',
+       'n03877845 palace', 'n04418357 theater curtain, theatre curtain',
+       "n02669723 academic gown, academic robe, judge's robe"],
+      dtype='<U131'))
+/examples/abc/0/19.jpg
+predicted class is: 887
+output label: n04532106 vestment
+probabilities and labels:
+(array([0.6173386 , 0.09779552, 0.08295754, 0.06082985, 0.04024064],
+      dtype=float32), array(['n04532106 vestment', 'n03781244 monastery',
+       'n04418357 theater curtain, theatre curtain', 'n02699494 altar',
+       'n04429376 throne'], dtype='<U131'))
+/examples/abc/0/20.jpg
+predicted class is: 562
+output label: n03388043 fountain
+probabilities and labels:
+(array([0.22088474, 0.17786968, 0.08021382, 0.07534925, 0.0643713 ],
+      dtype=float32), array(['n03388043 fountain', 'n03788195 mosque', 'n03220513 dome',
+       'n04346328 stupa, tope', 'n03877845 palace'], dtype='<U131'))
+/examples/abc/0/21.jpg
+predicted class is: 834
+output label: n04350905 suit, suit of clothes
+probabilities and labels:
+(array([0.14279927, 0.11345401, 0.08487266, 0.06698758, 0.04670904],
+      dtype=float32), array(['n04350905 suit, suit of clothes',
+       "n02669723 academic gown, academic robe, judge's robe",
+       'n02667093 abaya', 'n04479046 trench coat',
+       'n03787032 mortarboard'], dtype='<U131'))
+/examples/abc/0/22.jpg
+predicted class is: 468
+output label: n02930766 cab, hack, taxi, taxicab
+probabilities and labels:
+(array([0.50007576, 0.34645513, 0.04122046, 0.01484278, 0.00559308],
+      dtype=float32), array(['n02930766 cab, hack, taxi, taxicab', 'n06794110 street sign',
+       'n06874185 traffic light, traffic signal, stoplight',
+       'n03032252 cinema, movie theater, movie theatre, movie house, picture palace',
+       'n03535780 horizontal bar, high bar'], dtype='<U131'))
+/examples/abc/0/23.jpg
+predicted class is: 582
+output label: n03461385 grocery store, grocery, food market, market
+probabilities and labels:
+(array([0.28594443, 0.16314921, 0.04554678, 0.04067913, 0.03498286],
+      dtype=float32), array(['n03461385 grocery store, grocery, food market, market',
+       'n04081281 restaurant, eating house, eating place, eatery',
+       'n02776631 bakery, bakeshop, bakehouse', 'n04462240 toyshop',
+       'n02807133 bathing cap, swimming cap'], dtype='<U131'))
+/examples/abc/0/24.jpg
+predicted class is: 584
+output label: n03476684 hair slide
+probabilities and labels:
+(array([0.3788315 , 0.1054795 , 0.05394167, 0.05070218, 0.04103343],
+      dtype=float32), array(['n03476684 hair slide', 'n03476991 hair spray',
+       'n04356056 sunglasses, dark glasses, shades', 'n04355933 sunglass',
+       'n02841315 binoculars, field glasses, opera glasses'],
+      dtype='<U131'))
+/examples/abc/0/25.jpg
+predicted class is: 834
+output label: n04350905 suit, suit of clothes
+probabilities and labels:
+(array([0.61702484, 0.3378909 , 0.01290185, 0.00396453, 0.00321071],
+      dtype=float32), array(['n04350905 suit, suit of clothes', 'n04591157 Windsor tie',
+       'n02883205 bow tie, bow-tie, bowtie',
+       "n02669723 academic gown, academic robe, judge's robe",
+       'n04162706 seat belt, seatbelt'], dtype='<U131'))
+/examples/abc/0/26.jpg
+predicted class is: 681
+output label: n03832673 notebook, notebook computer
+probabilities and labels:
+(array([0.47602004, 0.25191465, 0.13205017, 0.03110183, 0.02778522],
+      dtype=float32), array(['n03832673 notebook, notebook computer', 'n03291819 envelope',
+       'n03642806 laptop, laptop computer', 'n04004767 printer',
+       'n02971356 carton'], dtype='<U131'))
+/examples/abc/0/27.jpg
+predicted class is: 692
+output label: n03871628 packet
+probabilities and labels:
+(array([0.6128798 , 0.09298189, 0.03931038, 0.02993374, 0.02400864],
+      dtype=float32), array(['n03871628 packet',
+       'n04116512 rubber eraser, rubber, pencil eraser',
+       'n03291819 envelope',
+       'n04372370 switch, electric switch, electrical switch',
+       'n02971356 carton'], dtype='<U131'))
+/examples/abc/0/28.jpg
+predicted class is: 22
+output label: n01614925 bald eagle, American eagle, Haliaeetus leucocephalus
+probabilities and labels:
+(array([0.04059342, 0.03874007, 0.03576281, 0.0339764 , 0.02321651],
+      dtype=float32), array(['n01614925 bald eagle, American eagle, Haliaeetus leucocephalus',
+       'n03903868 pedestal, plinth, footstall', 'n02906734 broom',
+       'n09428293 seashore, coast, seacoast, sea-coast',
+       'n04033901 quill, quill pen'], dtype='<U131'))
+/examples/abc/0/29.jpg
+predicted class is: 752
+output label: n04039381 racket, racquet
+probabilities and labels:
+(array([0.90352833, 0.05481846, 0.02149036, 0.0085898 , 0.00467307],
+      dtype=float32), array(['n04039381 racket, racquet', 'n04409515 tennis ball',
+       'n03942813 ping-pong ball', 'n04118538 rugby ball',
+       'n02802426 basketball'], dtype='<U131'))
+/examples/abc/0/30.jpg
+predicted class is: 400
+output label: n02669723 academic gown, academic robe, judge's robe
+probabilities and labels:
+(array([0.2675591 , 0.07976048, 0.06003102, 0.04385043, 0.04008599],
+      dtype=float32), array(["n02669723 academic gown, academic robe, judge's robe",
+       'n03787032 mortarboard', 'n02916936 bulletproof vest',
+       'n02883205 bow tie, bow-tie, bowtie',
+       'n04350905 suit, suit of clothes'], dtype='<U131'))
+/examples/abc/0/31.jpg
+predicted class is: 71
+output label: n01770393 scorpion
+probabilities and labels:
+(array([0.3940674 , 0.20176806, 0.03952317, 0.03269419, 0.02370344],
+      dtype=float32), array(['n01770393 scorpion', 'n02417914 ibex, Capra ibex',
+       'n02422106 hartebeest',
+       'n01698640 American alligator, Alligator mississipiensis',
+       'n03388043 fountain'], dtype='<U131'))
+/examples/abc/0/32.jpg
+predicted class is: 796
+output label: n04229816 ski mask
+probabilities and labels:
+(array([0.1275725 , 0.06581299, 0.04973594, 0.03802649, 0.03761428],
+      dtype=float32), array(['n04229816 ski mask', 'n02916936 bulletproof vest',
+       'n03594734 jean, blue jean, denim', 'n03763968 military uniform',
+       'n03141823 crutch'], dtype='<U131'))
+/examples/abc/0/33.jpg
+predicted class is: 880
+output label: n04509417 unicycle, monocycle
+probabilities and labels:
+(array([0.25347248, 0.21179469, 0.05667679, 0.04081947, 0.03325216],
+      dtype=float32), array(['n04509417 unicycle, monocycle', 'n03763968 military uniform',
+       'n04462240 toyshop', 'n03787032 mortarboard', 'n04296562 stage'],
+      dtype='<U131'))
+/examples/abc/0/34.jpg
+predicted class is: 787
+output label: n04192698 shield, buckler
+probabilities and labels:
+(array([0.23977703, 0.05772887, 0.05551995, 0.05136108, 0.04683652],
+      dtype=float32), array(['n04192698 shield, buckler', 'n03697007 lumbermill, sawmill',
+       'n02817516 bearskin, busby, shako',
+       'n03355925 flagpole, flagstaff',
+       'n02504013 Indian elephant, Elephas maximus'], dtype='<U131'))
+/examples/abc/0/35.jpg
+predicted class is: 919
+output label: n06794110 street sign
+probabilities and labels:
+(array([0.12501305, 0.10687957, 0.09172013, 0.05677116, 0.05636387],
+      dtype=float32), array(['n06794110 street sign',
+       'n03032252 cinema, movie theater, movie theatre, movie house, picture palace',
+       'n06874185 traffic light, traffic signal, stoplight',
+       'n04149813 scoreboard',
+       'n04467665 trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi'],
+      dtype='<U131'))
+/examples/abc/0/36.jpg
+predicted class is: 834
+output label: n04350905 suit, suit of clothes
+probabilities and labels:
+(array([0.1800914 , 0.14782189, 0.11182375, 0.06412596, 0.03125276],
+      dtype=float32), array(['n04350905 suit, suit of clothes', 'n03814639 neck brace',
+       'n02916936 bulletproof vest', 'n04591157 Windsor tie',
+       'n02977058 cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM'],
+      dtype='<U131'))
+/examples/abc/0/37.jpg
+predicted class is: 685
+output label: n03841143 odometer, hodometer, mileometer, milometer
+probabilities and labels:
+(array([0.18466467, 0.13135748, 0.08979017, 0.07605191, 0.02973513],
+      dtype=float32), array(['n03841143 odometer, hodometer, mileometer, milometer',
+       'n07565083 menu', 'n03196217 digital clock',
+       'n04149813 scoreboard', 'n09229709 bubble'], dtype='<U131'))
+/examples/abc/0/38.jpg
+predicted class is: 841
+output label: n04370456 sweatshirt
+probabilities and labels:
+(array([0.32196993, 0.1326602 , 0.09198792, 0.09139322, 0.06032042],
+      dtype=float32), array(['n04370456 sweatshirt', 'n02916936 bulletproof vest',
+       'n09835506 ballplayer, baseball player',
+       'n03595614 jersey, T-shirt, tee shirt', 'n04336792 stretcher'],
+      dtype='<U131'))
+/examples/abc/0/39.jpg
+predicted class is: 919
+output label: n06794110 street sign
+probabilities and labels:
+(array([0.21573968, 0.11684569, 0.09036824, 0.04200426, 0.03934624],
+      dtype=float32), array(['n06794110 street sign', 'n03532672 hook, claw', 'n03126707 crane',
+       'n06874185 traffic light, traffic signal, stoplight',
+       'n04592741 wing'], dtype='<U131'))
+/examples/abc/0/40.jpg
+predicted class is: 627
+output label: n03670208 limousine, limo
+probabilities and labels:
+(array([0.36307916, 0.0981962 , 0.0832634 , 0.05015744, 0.04135652],
+      dtype=float32), array(['n03670208 limousine, limo', 'n04162706 seat belt, seatbelt',
+       'n04493381 tub, vat', 'n03770679 minivan', 'n03769881 minibus'],
+      dtype='<U131'))
+/examples/abc/0/41.jpg
+predicted class is: 34
+output label: n01665541 leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+probabilities and labels:
+(array([0.2851655 , 0.09163497, 0.05520891, 0.03820974, 0.02948303],
+      dtype=float32), array(['n01665541 leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea',
+       'n02445715 skunk, polecat, wood pussy', 'n10565667 scuba diver',
+       'n02102973 Irish water spaniel', 'n02172182 dung beetle'],
+      dtype='<U131'))
+/examples/abc/0/42.jpg
+predicted class is: 739
+output label: n03992509 potter's wheel
+probabilities and labels:
+(array([0.10712349, 0.06767179, 0.0545954 , 0.03482327, 0.03467028],
+      dtype=float32), array(["n03992509 potter's wheel", 'n01748264 Indian cobra, Naja naja',
+       'n03223299 doormat, welcome mat',
+       "n03954731 plane, carpenter's plane, woodworking plane",
+       'n03124043 cowboy boot'], dtype='<U131'))
+/examples/abc/0/43.jpg
+predicted class is: 497
+output label: n03028079 church, church building
+probabilities and labels:
+(array([0.21781102, 0.16324356, 0.0751701 , 0.0673823 , 0.06132362],
+      dtype=float32), array(['n03028079 church, church building', 'n03877845 palace',
+       'n02825657 bell cote, bell cot', 'n02793495 barn',
+       'n03930313 picket fence, paling'], dtype='<U131'))
+/examples/abc/0/44.jpg
+predicted class is: 122
+output label: n01983481 American lobster, Northern lobster, Maine lobster, Homarus americanus
+probabilities and labels:
+(array([0.16694963, 0.09041196, 0.08197288, 0.05880944, 0.03377905],
+      dtype=float32), array(['n01983481 American lobster, Northern lobster, Maine lobster, Homarus americanus',
+       'n03888605 parallel bars, bars', 'n02777292 balance beam, beam',
+       'n03535780 horizontal bar, high bar', 'n03814639 neck brace'],
+      dtype='<U131'))
+/examples/abc/0/45.jpg
+predicted class is: 593
+output label: n03494278 harmonica, mouth organ, harp, mouth harp
+probabilities and labels:
+(array([0.322445  , 0.0513457 , 0.04578863, 0.03834724, 0.038259  ],
+      dtype=float32), array(['n03494278 harmonica, mouth organ, harp, mouth harp',
+       'n03884397 panpipe, pandean pipe, syrinx', 'n02791270 barbershop',
+       'n03759954 microphone, mike', 'n02883205 bow tie, bow-tie, bowtie'],
+      dtype='<U131'))
+/examples/abc/0/46.jpg
+predicted class is: 978
+output label: n09428293 seashore, coast, seacoast, sea-coast
+probabilities and labels:
+(array([0.20519638, 0.10442165, 0.0840324 , 0.08176226, 0.04245742],
+      dtype=float32), array(['n09428293 seashore, coast, seacoast, sea-coast',
+       'n04507155 umbrella', 'n09193705 alp',
+       'n09421951 sandbar, sand bar', 'n04346328 stupa, tope'],
+      dtype='<U131'))
+/examples/abc/0/47.jpg
+predicted class is: 459
+output label: n02892767 brassiere, bra, bandeau
+probabilities and labels:
+(array([0.15947239, 0.06284808, 0.0549812 , 0.04366136, 0.03587301],
+      dtype=float32), array(['n02892767 brassiere, bra, bandeau',
+       'n03188531 diaper, nappy, napkin', 'n06596364 comic book',
+       'n04371430 swimming trunks, bathing trunks',
+       'n02807133 bathing cap, swimming cap'], dtype='<U131'))
+/examples/abc/0/48.jpg
+predicted class is: 638
+output label: n03710637 maillot
+probabilities and labels:
+(array([0.30263785, 0.14387977, 0.10104687, 0.08853227, 0.07797091],
+      dtype=float32), array(['n03710637 maillot', 'n03710721 maillot, tank suit',
+       'n02777292 balance beam, beam', 'n03976657 pole',
+       'n02837789 bikini, two-piece'], dtype='<U131'))
+/examples/abc/0/49.jpg
+predicted class is: 655
+output label: n03770439 miniskirt, mini
+probabilities and labels:
+(array([0.09932187, 0.0664258 , 0.04963741, 0.0309866 , 0.02999573],
+      dtype=float32), array(['n03770439 miniskirt, mini', 'n04344873 studio couch, day bed',
+       'n03814639 neck brace', 'n04099969 rocking chair, rocker',
+       "n03992509 potter's wheel"], dtype='<U131'))
+1
+/examples/abc/1/0.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([0.32422644, 0.11517183, 0.11026315, 0.03529451, 0.03480706],
+      dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n04404412 television, television system',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n03584829 iron, smoothing iron', 'n04152593 screen, CRT screen'],
+      dtype='<U131'))
+/examples/abc/1/1.jpg
+predicted class is: 868
+output label: n04476259 tray
+probabilities and labels:
+(array([0.19820696, 0.19762318, 0.13355005, 0.08652376, 0.07331896],
+      dtype=float32), array(['n04476259 tray', 'n03871628 packet', 'n07565083 menu',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n03485794 handkerchief, hankie, hanky, hankey'], dtype='<U131'))
+/examples/abc/1/2.jpg
+predicted class is: 922
+output label: n07565083 menu
+probabilities and labels:
+(array([0.36918032, 0.2523184 , 0.12406816, 0.09336824, 0.01718634],
+      dtype=float32), array(['n07565083 menu', 'n04149813 scoreboard',
+       'n02892201 brass, memorial tablet, plaque',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n03196217 digital clock'], dtype='<U131'))
+/examples/abc/1/3.jpg
+predicted class is: 584
+output label: n03476684 hair slide
+probabilities and labels:
+(array([0.27752337, 0.09765958, 0.07305169, 0.03378548, 0.03228845],
+      dtype=float32), array(['n03476684 hair slide',
+       'n09428293 seashore, coast, seacoast, sea-coast',
+       'n04116512 rubber eraser, rubber, pencil eraser',
+       'n03888257 parachute, chute', 'n03291819 envelope'], dtype='<U131'))
+/examples/abc/1/4.jpg
+predicted class is: 408
+output label: n02704792 amphibian, amphibious vehicle
+probabilities and labels:
+(array([0.1780835 , 0.1508062 , 0.04949966, 0.04802714, 0.04256186],
+      dtype=float32), array(['n02704792 amphibian, amphibious vehicle',
+       'n03594945 jeep, landrover', 'n04465501 tractor',
+       'n04037443 racer, race car, racing car', 'n10565667 scuba diver'],
+      dtype='<U131'))
+/examples/abc/1/5.jpg
+predicted class is: 559
+output label: n03376595 folding chair
+probabilities and labels:
+(array([0.38901922, 0.07906243, 0.05734694, 0.04392933, 0.04387061],
+      dtype=float32), array(['n03376595 folding chair', 'n04099969 rocking chair, rocker',
+       'n03141823 crutch', "n03970156 plunger, plumber's helper",
+       'n03888605 parallel bars, bars'], dtype='<U131'))
+/examples/abc/1/6.jpg
+predicted class is: 549
+output label: n03291819 envelope
+probabilities and labels:
+(array([0.3938719 , 0.1093261 , 0.04683022, 0.03953086, 0.03876483],
+      dtype=float32), array(['n03291819 envelope',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n07565083 menu', 'n03109150 corkscrew, bottle screw',
+       'n04118776 rule, ruler'], dtype='<U131'))
+/examples/abc/1/7.jpg
+predicted class is: 147
+output label: n02066245 grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
+probabilities and labels:
+(array([0.34197897, 0.05247051, 0.03065947, 0.02983252, 0.0227226 ],
+      dtype=float32), array(['n02066245 grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus',
+       'n09332890 lakeside, lakeshore',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n07565083 menu', 'n02892201 brass, memorial tablet, plaque'],
+      dtype='<U131'))
+/examples/abc/1/8.jpg
+predicted class is: 812
+output label: n04266014 space shuttle
+probabilities and labels:
+(array([0.35533485, 0.16042031, 0.07909259, 0.04173453, 0.02349686],
+      dtype=float32), array(['n04266014 space shuttle',
+       'n06359193 web site, website, internet site, site',
+       'n04037443 racer, race car, racing car',
+       'n02692877 airship, dirigible', 'n02690373 airliner'],
+      dtype='<U131'))
+/examples/abc/1/9.jpg
+predicted class is: 796
+output label: n04229816 ski mask
+probabilities and labels:
+(array([0.52876633, 0.34224933, 0.03125905, 0.01547488, 0.01074655],
+      dtype=float32), array(['n04229816 ski mask', 'n03724870 mask', 'n04584207 wig',
+       'n02807133 bathing cap, swimming cap', 'n03127747 crash helmet'],
+      dtype='<U131'))
+/examples/abc/1/10.jpg
+predicted class is: 291
+output label: n02129165 lion, king of beasts, Panthera leo
+probabilities and labels:
+(array([9.8328823e-01, 1.0498529e-02, 1.3925313e-03, 8.1942673e-04,
+       6.5815914e-04], dtype=float32), array(['n02129165 lion, king of beasts, Panthera leo',
+       'n02112137 chow, chow chow',
+       'n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor',
+       'n02128925 jaguar, panther, Panthera onca, Felis onca',
+       'n02111277 Newfoundland, Newfoundland dog'], dtype='<U131'))
+/examples/abc/1/11.jpg
+predicted class is: 781
+output label: n04149813 scoreboard
+probabilities and labels:
+(array([0.95348525, 0.00584868, 0.00487947, 0.00385828, 0.00372797],
+      dtype=float32), array(['n04149813 scoreboard', 'n04243546 slot, one-armed bandit',
+       'n03393912 freight car', 'n07565083 menu',
+       'n03032252 cinema, movie theater, movie theatre, movie house, picture palace'],
+      dtype='<U131'))
+/examples/abc/1/12.jpg
+predicted class is: 576
+output label: n03447447 gondola
+probabilities and labels:
+(array([0.35185686, 0.05865729, 0.03020712, 0.02900475, 0.02492633],
+      dtype=float32), array(['n03447447 gondola', 'n02951358 canoe',
+       'n03873416 paddle, boat paddle', 'n03355925 flagpole, flagstaff',
+       'n03594734 jean, blue jean, denim'], dtype='<U131'))
+/examples/abc/1/13.jpg
+predicted class is: 562
+output label: n03388043 fountain
+probabilities and labels:
+(array([0.47637168, 0.14614326, 0.06578542, 0.04860664, 0.03925066],
+      dtype=float32), array(['n03388043 fountain', 'n03877845 palace', 'n02980441 castle',
+       'n04346328 stupa, tope', 'n03781244 monastery'], dtype='<U131'))
+/examples/abc/1/14.jpg
+predicted class is: 611
+output label: n03598930 jigsaw puzzle
+probabilities and labels:
+(array([0.40308404, 0.13535093, 0.0919983 , 0.08065633, 0.01690236],
+      dtype=float32), array(['n03598930 jigsaw puzzle', 'n04179913 sewing machine',
+       'n03602883 joystick', 'n04548280 wall clock',
+       'n03532672 hook, claw'], dtype='<U131'))
+/examples/abc/1/15.jpg
+predicted class is: 107
+output label: n01910747 jellyfish
+probabilities and labels:
+(array([0.7636346 , 0.11383815, 0.08072872, 0.01348131, 0.00418476],
+      dtype=float32), array(['n01910747 jellyfish', 'n01498041 stingray',
+       'n01496331 electric ray, crampfish, numbfish, torpedo',
+       'n01751748 sea snake', 'n09256479 coral reef'], dtype='<U131'))
+/examples/abc/1/16.jpg
+predicted class is: 978
+output label: n09428293 seashore, coast, seacoast, sea-coast
+probabilities and labels:
+(array([0.33711034, 0.0881241 , 0.08250757, 0.07763675, 0.06754969],
+      dtype=float32), array(['n09428293 seashore, coast, seacoast, sea-coast',
+       'n02894605 breakwater, groin, groyne, mole, bulwark, seawall, jetty',
+       'n09421951 sandbar, sand bar', 'n02981792 catamaran',
+       'n09332890 lakeside, lakeshore'], dtype='<U131'))
+/examples/abc/1/17.jpg
+predicted class is: 458
+output label: n02892201 brass, memorial tablet, plaque
+probabilities and labels:
+(array([0.5623551 , 0.3308612 , 0.02284077, 0.02080443, 0.00809337],
+      dtype=float32), array(['n02892201 brass, memorial tablet, plaque', 'n07565083 menu',
+       'n04149813 scoreboard',
+       'n06359193 web site, website, internet site, site',
+       'n06785654 crossword puzzle, crossword'], dtype='<U131'))
+/examples/abc/1/18.jpg
+predicted class is: 922
+output label: n07565083 menu
+probabilities and labels:
+(array([0.48480913, 0.15739328, 0.11795781, 0.04378793, 0.03179615],
+      dtype=float32), array(['n07565083 menu', 'n02892201 brass, memorial tablet, plaque',
+       'n04149813 scoreboard', 'n03196217 digital clock',
+       'n06359193 web site, website, internet site, site'], dtype='<U131'))
+/examples/abc/1/19.jpg
+predicted class is: 826
+output label: n04328186 stopwatch, stop watch
+probabilities and labels:
+(array([0.16077231, 0.12438934, 0.11881851, 0.05667835, 0.05390907],
+      dtype=float32), array(['n04328186 stopwatch, stop watch', 'n02794156 barometer',
+       'n03291819 envelope', 'n04118776 rule, ruler',
+       'n04141975 scale, weighing machine'], dtype='<U131'))
+/examples/abc/1/20.jpg
+predicted class is: 782
+output label: n04152593 screen, CRT screen
+probabilities and labels:
+(array([0.255605  , 0.22607242, 0.14811945, 0.06345206, 0.04583777],
+      dtype=float32), array(['n04152593 screen, CRT screen',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n03871628 packet', 'n02840245 binder, ring-binder',
+       'n03782006 monitor'], dtype='<U131'))
+/examples/abc/1/21.jpg
+predicted class is: 922
+output label: n07565083 menu
+probabilities and labels:
+(array([0.6105645 , 0.10636624, 0.08078516, 0.04259753, 0.02588545],
+      dtype=float32), array(['n07565083 menu', 'n03291819 envelope',
+       'n06359193 web site, website, internet site, site',
+       'n02892201 brass, memorial tablet, plaque',
+       'n02840245 binder, ring-binder'], dtype='<U131'))
+/examples/abc/1/22.jpg
+predicted class is: 989
+output label: n12620546 hip, rose hip, rosehip
+probabilities and labels:
+(array([0.590496  , 0.04751971, 0.03843415, 0.02265528, 0.02190427],
+      dtype=float32), array(['n12620546 hip, rose hip, rosehip',
+       'n03595614 jersey, T-shirt, tee shirt', 'n02782093 balloon',
+       'n07892512 red wine', 'n02892767 brassiere, bra, bandeau'],
+      dtype='<U131'))
+/examples/abc/1/23.jpg
+predicted class is: 396
+output label: n02643566 lionfish
+probabilities and labels:
+(array([0.17387998, 0.1385922 , 0.10186444, 0.06649057, 0.06353981],
+      dtype=float32), array(['n02643566 lionfish', 'n09256479 coral reef', 'n04606251 wreck',
+       'n10565667 scuba diver',
+       'n03240683 drilling platform, offshore rig'], dtype='<U131'))
+/examples/abc/1/24.jpg
+predicted class is: 611
+output label: n03598930 jigsaw puzzle
+probabilities and labels:
+(array([0.6365404 , 0.06848539, 0.03678491, 0.02150396, 0.01295808],
+      dtype=float32), array(['n03598930 jigsaw puzzle', 'n03042490 cliff dwelling',
+       'n09246464 cliff, drop, drop-off', 'n01498041 stingray',
+       'n09428293 seashore, coast, seacoast, sea-coast'], dtype='<U131'))
+/examples/abc/1/25.jpg
+predicted class is: 921
+output label: n07248320 book jacket, dust cover, dust jacket, dust wrapper
+probabilities and labels:
+(array([0.35344887, 0.10057042, 0.08509739, 0.07368129, 0.03196462],
+      dtype=float32), array(['n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n03291819 envelope', 'n03109150 corkscrew, bottle screw',
+       'n07565083 menu', 'n02840245 binder, ring-binder'], dtype='<U131'))
+/examples/abc/1/26.jpg
+predicted class is: 328
+output label: n02319095 sea urchin
+probabilities and labels:
+(array([0.64136094, 0.09162803, 0.08343384, 0.05686666, 0.02199052],
+      dtype=float32), array(['n02319095 sea urchin',
+       'n01872401 echidna, spiny anteater, anteater',
+       "n04275548 spider web, spider's web", 'n02643566 lionfish',
+       'n02346627 porcupine, hedgehog'], dtype='<U131'))
+/examples/abc/1/27.jpg
+predicted class is: 922
+output label: n07565083 menu
+probabilities and labels:
+(array([0.797284  , 0.04117409, 0.02276661, 0.0152542 , 0.01076099],
+      dtype=float32), array(['n07565083 menu', 'n07892512 red wine', 'n04591713 wine bottle',
+       'n03291819 envelope', 'n03690938 lotion'], dtype='<U131'))
+/examples/abc/1/28.jpg
+predicted class is: 980
+output label: n09472597 volcano
+probabilities and labels:
+(array([0.23008159, 0.14411986, 0.11252349, 0.05318544, 0.04881557],
+      dtype=float32), array(['n09472597 volcano',
+       'n09399592 promontory, headland, head, foreland',
+       'n09246464 cliff, drop, drop-off',
+       'n09428293 seashore, coast, seacoast, sea-coast', 'n09193705 alp'],
+      dtype='<U131'))
+/examples/abc/1/29.jpg
+predicted class is: 616
+output label: n03627232 knot
+probabilities and labels:
+(array([9.6255755e-01, 2.6816206e-02, 2.3323034e-03, 8.4004563e-04,
+       5.4842071e-04], dtype=float32), array(['n03627232 knot', 'n02999410 chain', 'n03532672 hook, claw',
+       'n04367480 swab, swob, mop',
+       'n03065424 coil, spiral, volute, whorl, helix'], dtype='<U131'))
+/examples/abc/1/30.jpg
+predicted class is: 649
+output label: n03743016 megalith, megalithic structure
+probabilities and labels:
+(array([0.6076925 , 0.11095319, 0.05211253, 0.03810083, 0.03218224],
+      dtype=float32), array(['n03743016 megalith, megalithic structure',
+       'n09246464 cliff, drop, drop-off', 'n03388043 fountain',
+       'n04346328 stupa, tope', 'n04458633 totem pole'], dtype='<U131'))
+/examples/abc/1/31.jpg
+predicted class is: 870
+output label: n04482393 tricycle, trike, velocipede
+probabilities and labels:
+(array([0.08399477, 0.07823441, 0.07438494, 0.06525335, 0.05298596],
+      dtype=float32), array(['n04482393 tricycle, trike, velocipede',
+       'n04418357 theater curtain, theatre curtain',
+       'n03982430 pool table, billiard table, snooker table',
+       'n04509417 unicycle, monocycle',
+       'n04517823 vacuum, vacuum cleaner'], dtype='<U131'))
+/examples/abc/1/32.jpg
+predicted class is: 678
+output label: n03814639 neck brace
+probabilities and labels:
+(array([0.58762246, 0.12466386, 0.07968076, 0.04183313, 0.03106605],
+      dtype=float32), array(['n03814639 neck brace', 'n03958227 plastic bag',
+       'n04336792 stretcher', 'n03868863 oxygen mask',
+       'n03534580 hoopskirt, crinoline'], dtype='<U131'))
+/examples/abc/1/33.jpg
+predicted class is: 845
+output label: n04376876 syringe
+probabilities and labels:
+(array([0.6523508 , 0.08927601, 0.01523889, 0.01478405, 0.01472185],
+      dtype=float32), array(['n04376876 syringe', 'n03532672 hook, claw',
+       'n04127249 safety pin', 'n03355925 flagpole, flagstaff',
+       'n04154565 screwdriver'], dtype='<U131'))
+/examples/abc/1/34.jpg
+predicted class is: 591
+output label: n03485794 handkerchief, hankie, hanky, hankey
+probabilities and labels:
+(array([0.75736094, 0.10568857, 0.0414367 , 0.02592281, 0.01060097],
+      dtype=float32), array(['n03485794 handkerchief, hankie, hanky, hankey',
+       'n03814906 necklace', 'n04476259 tray', 'n03476684 hair slide',
+       'n04599235 wool, woolen, woollen'], dtype='<U131'))
+/examples/abc/1/35.jpg
+predicted class is: 922
+output label: n07565083 menu
+probabilities and labels:
+(array([0.44049436, 0.3057373 , 0.05273905, 0.04119635, 0.0374766 ],
+      dtype=float32), array(['n07565083 menu',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n02892201 brass, memorial tablet, plaque',
+       'n03595614 jersey, T-shirt, tee shirt', 'n03871628 packet'],
+      dtype='<U131'))
+/examples/abc/1/36.jpg
+predicted class is: 922
+output label: n07565083 menu
+probabilities and labels:
+(array([0.7601089 , 0.10889307, 0.09008341, 0.00538742, 0.00305588],
+      dtype=float32), array(['n07565083 menu', 'n04149813 scoreboard',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n02892201 brass, memorial tablet, plaque',
+       'n03598930 jigsaw puzzle'], dtype='<U131'))
+/examples/abc/1/37.jpg
+predicted class is: 987
+output label: n12144580 corn
+probabilities and labels:
+(array([0.0481925 , 0.04644474, 0.0436606 , 0.03460583, 0.02986086],
+      dtype=float32), array(['n12144580 corn', 'n12620546 hip, rose hip, rosehip',
+       'n03388043 fountain', 'n02206856 bee',
+       "n04275548 spider web, spider's web"], dtype='<U131'))
+/examples/abc/1/38.jpg
+predicted class is: 21
+output label: n01608432 kite
+probabilities and labels:
+(array([0.157326  , 0.11747549, 0.03633339, 0.03001531, 0.02533664],
+      dtype=float32), array(['n01608432 kite', 'n04033901 quill, quill pen',
+       'n03498962 hatchet', 'n01616318 vulture', 'n02051845 pelican'],
+      dtype='<U131'))
+/examples/abc/1/39.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([0.3159808 , 0.20223811, 0.19942538, 0.09767926, 0.0264018 ],
+      dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n03291819 envelope', 'n07565083 menu',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n02892201 brass, memorial tablet, plaque'], dtype='<U131'))
+/examples/abc/1/40.jpg
+predicted class is: 922
+output label: n07565083 menu
+probabilities and labels:
+(array([0.9416574 , 0.02295463, 0.00625927, 0.00521455, 0.00429259],
+      dtype=float32), array(['n07565083 menu', 'n03291819 envelope',
+       'n02892201 brass, memorial tablet, plaque', 'n03871628 packet',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper'],
+      dtype='<U131'))
+/examples/abc/1/41.jpg
+predicted class is: 600
+output label: n03532672 hook, claw
+probabilities and labels:
+(array([0.35839567, 0.06327417, 0.05288761, 0.04807871, 0.04098725],
+      dtype=float32), array(['n03532672 hook, claw',
+       'n02788148 bannister, banister, balustrade, balusters, handrail',
+       'n03065424 coil, spiral, volute, whorl, helix',
+       'n01930112 nematode, nematode worm, roundworm',
+       'n04286575 spotlight, spot'], dtype='<U131'))
+/examples/abc/1/42.jpg
+predicted class is: 922
+output label: n07565083 menu
+probabilities and labels:
+(array([0.9386978 , 0.03043043, 0.00577273, 0.00451246, 0.00370336],
+      dtype=float32), array(['n07565083 menu', 'n03291819 envelope',
+       'n06359193 web site, website, internet site, site',
+       'n02840245 binder, ring-binder',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper'],
+      dtype='<U131'))
+/examples/abc/1/43.jpg
+predicted class is: 672
+output label: n03792972 mountain tent
+probabilities and labels:
+(array([0.23123787, 0.1900981 , 0.09113234, 0.03284751, 0.03154866],
+      dtype=float32), array(['n03792972 mountain tent', 'n03045698 cloak', 'n09193705 alp',
+       'n02408429 water buffalo, water ox, Asiatic buffalo, Bubalus bubalis',
+       'n04613696 yurt'], dtype='<U131'))
+/examples/abc/1/44.jpg
+predicted class is: 817
+output label: n04285008 sports car, sport car
+probabilities and labels:
+(array([0.09722921, 0.09396201, 0.07168641, 0.06363602, 0.05316276],
+      dtype=float32), array(['n04285008 sports car, sport car', 'n03478589 half track',
+       'n04428191 thresher, thrasher, threshing machine',
+       'n03599486 jinrikisha, ricksha, rickshaw', 'n03770679 minivan'],
+      dtype='<U131'))
+/examples/abc/1/45.jpg
+predicted class is: 879
+output label: n04507155 umbrella
+probabilities and labels:
+(array([0.29984584, 0.29654253, 0.13095835, 0.03348975, 0.02850349],
+      dtype=float32), array(['n04507155 umbrella', 'n03710193 mailbox, letter box',
+       'n04355338 sundial', 'n03891332 parking meter',
+       'n02747177 ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin'],
+      dtype='<U131'))
+/examples/abc/1/46.jpg
+predicted class is: 574
+output label: n03445777 golf ball
+probabilities and labels:
+(array([0.77472633, 0.07855869, 0.05690639, 0.0408756 , 0.01243758],
+      dtype=float32), array(['n03445777 golf ball', 'n04409515 tennis ball',
+       'n02877765 bottlecap', 'n03942813 ping-pong ball',
+       'n11939491 daisy'], dtype='<U131'))
+/examples/abc/1/47.jpg
+predicted class is: 688
+output label: n03857828 oscilloscope, scope, cathode-ray oscilloscope, CRO
+probabilities and labels:
+(array([0.05864382, 0.03874647, 0.03861185, 0.03833829, 0.03733603],
+      dtype=float32), array(['n03857828 oscilloscope, scope, cathode-ray oscilloscope, CRO',
+       "n02966687 carpenter's kit, tool kit",
+       'n03347037 fire screen, fireguard', 'n04589890 window screen',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper'],
+      dtype='<U131'))
+/examples/abc/1/48.jpg
+predicted class is: 395
+output label: n02641379 gar, garfish, garpike, billfish, Lepisosteus osseus
+probabilities and labels:
+(array([0.6109882 , 0.19960424, 0.07094455, 0.02532816, 0.01720971],
+      dtype=float32), array(['n02641379 gar, garfish, garpike, billfish, Lepisosteus osseus',
+       'n01930112 nematode, nematode worm, roundworm',
+       'n01494475 hammerhead, hammerhead shark', 'n02526121 eel',
+       'n01873310 platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus'],
+      dtype='<U131'))
+/examples/abc/1/49.jpg
+predicted class is: 922
+output label: n07565083 menu
+probabilities and labels:
+(array([0.8650712 , 0.07708824, 0.01082894, 0.00902919, 0.00777738],
+      dtype=float32), array(['n07565083 menu', 'n03291819 envelope',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n03871628 packet', 'n06785654 crossword puzzle, crossword'],
+      dtype='<U131'))
+2
+/examples/abc/2/0.jpg
+predicted class is: 404
+output label: n02690373 airliner
+probabilities and labels:
+(array([0.8013435 , 0.1275251 , 0.03277731, 0.01975896, 0.00893809],
+      dtype=float32), array(['n02690373 airliner', 'n04552348 warplane, military plane',
+       'n04592741 wing', 'n02692877 airship, dirigible',
+       'n03773504 missile'], dtype='<U131'))
+/examples/abc/2/1.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([9.9794751e-01, 1.3946659e-03, 8.6782005e-05, 6.0163471e-05,
+       5.8642079e-05], dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n07565083 menu', 'n03291819 envelope',
+       'n06785654 crossword puzzle, crossword', 'n04127249 safety pin'],
+      dtype='<U131'))
+/examples/abc/2/2.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([9.8397684e-01, 5.0494471e-03, 1.4100213e-03, 1.0480988e-03,
+       9.0354000e-04], dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n04127249 safety pin', 'n07565083 menu', 'n03871628 packet',
+       'n04579432 whistle'], dtype='<U131'))
+/examples/abc/2/3.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([9.8901409e-01, 9.0486519e-03, 7.4327027e-04, 4.1006549e-04,
+       1.5839511e-04], dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n07565083 menu',
+       'n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n03291819 envelope', 'n02840245 binder, ring-binder'],
+      dtype='<U131'))
+/examples/abc/2/4.jpg
+predicted class is: 921
+output label: n07248320 book jacket, dust cover, dust jacket, dust wrapper
+probabilities and labels:
+(array([0.20467214, 0.18557912, 0.07261297, 0.04777228, 0.03384459],
+      dtype=float32), array(['n07248320 book jacket, dust cover, dust jacket, dust wrapper',
+       'n03196217 digital clock',
+       'n04418357 theater curtain, theatre curtain',
+       'n04149813 scoreboard',
+       'n06359193 web site, website, internet site, site'], dtype='<U131'))
+/examples/abc/2/5.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([0.27770388, 0.2732903 , 0.1162664 , 0.08674052, 0.05168731],
+      dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n03871628 packet', 'n03291819 envelope', 'n06596364 comic book',
+       'n02786058 Band Aid'], dtype='<U131'))
+/examples/abc/2/6.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([9.9723071e-01, 9.5095678e-04, 5.4711959e-04, 3.7121997e-04,
+       2.3215114e-04], dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n04152593 screen, CRT screen', 'n03782006 monitor',
+       'n03291819 envelope', 'n03642806 laptop, laptop computer'],
+      dtype='<U131'))
+/examples/abc/2/7.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([0.7343112 , 0.03878313, 0.02687284, 0.01210452, 0.01082326],
+      dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n04204238 shopping basket', 'n03871628 packet',
+       'n04149813 scoreboard', 'n03196217 digital clock'], dtype='<U131'))
+/examples/abc/2/8.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([0.96857846, 0.00741248, 0.00400256, 0.00238795, 0.0014206 ],
+      dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n03291819 envelope', 'n03937543 pill bottle',
+       'n04152593 screen, CRT screen',
+       'n04116512 rubber eraser, rubber, pencil eraser'], dtype='<U131'))
+/examples/abc/2/9.jpg
+predicted class is: 752
+output label: n04039381 racket, racquet
+probabilities and labels:
+(array([0.35543674, 0.07540683, 0.04692479, 0.03831356, 0.02489906],
+      dtype=float32), array(['n04039381 racket, racquet',
+       'n06359193 web site, website, internet site, site',
+       'n09229709 bubble', "n03692522 loupe, jeweler's loupe",
+       'n04009552 projector'], dtype='<U131'))
+/examples/abc/2/10.jpg
+predicted class is: 400
+output label: n02669723 academic gown, academic robe, judge's robe
+probabilities and labels:
+(array([0.25425708, 0.05988987, 0.05427687, 0.05358724, 0.02482718],
+      dtype=float32), array(["n02669723 academic gown, academic robe, judge's robe",
+       'n04418357 theater curtain, theatre curtain',
+       'n03787032 mortarboard', 'n02817516 bearskin, busby, shako',
+       'n04005630 prison, prison house'], dtype='<U131'))
+/examples/abc/2/11.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([0.92889535, 0.05254541, 0.00361465, 0.00302055, 0.00150177],
+      dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n03291819 envelope', 'n07565083 menu',
+       'n04554684 washer, automatic washer, washing machine',
+       'n03871628 packet'], dtype='<U131'))
+/examples/abc/2/12.jpg
+predicted class is: 551
+output label: n03314780 face powder
+probabilities and labels:
+(array([0.0726269 , 0.06549791, 0.06058126, 0.04059853, 0.03986463],
+      dtype=float32), array(['n03314780 face powder',
+       'n06359193 web site, website, internet site, site',
+       'n03676483 lipstick, lip rouge', 'n03179701 desk',
+       'n04152593 screen, CRT screen'], dtype='<U131'))
+/examples/abc/2/13.jpg
+predicted class is: 916
+output label: n06359193 web site, website, internet site, site
+probabilities and labels:
+(array([0.3173392 , 0.26299363, 0.15992557, 0.06845535, 0.03169196],
+      dtype=float32), array(['n06359193 web site, website, internet site, site',
+       'n02786058 Band Aid', 'n03871628 packet', 'n03291819 envelope',
+       'n04116512 rubber eraser, rubber, pencil eraser'], dtype='<U131'))
+/examples/abc/2/14.jpg
